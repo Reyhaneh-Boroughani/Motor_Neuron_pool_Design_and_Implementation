@@ -7,12 +7,12 @@ The model is tested with a classification task, which considers isokinetic and i
 
 •	The excitatory input
 
-•	Motoneuron model: Izhikevic tonic neuron, Recruitment strategy
+•	Motoneuron model: Izhikevic tonic neuron, recruitment strategy
 
-•	Motor units properties: Location and size of each motor unit territory, Location of the fibers within a motor neuron territory, Motor Unit Action Potential
+•	Motor units properties: location and size of each motor unit territory, Location of the fibers within a motor neuron territory, motor unit action potential
 
 •	Isometric force model for motor units
 
-•	Recording model: EMG recording model, Intrafascicular recordings
+•	Recording model: EMG recording model, intrafascicular recordings
 
-•	Decoding algorithm: Spike train decoding, EMG signal decoding
+•	Decoding algorithm: spike train decoding, EMG signal decoding
